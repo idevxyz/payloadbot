@@ -1,0 +1,8 @@
+socket
+sub process
+colorama
+platform
+program
+threading
+sqlite3
+pickle
