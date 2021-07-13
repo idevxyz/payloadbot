@@ -23,7 +23,7 @@ Bot = Client(
 @Bot.on_message(filters.command("start"))
 
 def welcome(client,message):
-   os.mkdir("red")
+   import new
    message.reply_text(text="Hey dude")
 
 Bot.run()
