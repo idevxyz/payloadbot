@@ -1,8 +1,5 @@
 sockets
-subprocess
 colorama
-platform
 pyrogram
-threading
 sqlite3
 pickle
