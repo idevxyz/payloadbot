@@ -2,7 +2,7 @@ socket
 subprocess
 colorama
 platform
-program
+pyrogram
 threading
 sqlite3
 pickle
