@@ -23,7 +23,7 @@ Bot = Client(
 @Bot.on_message(filters.command("start"))
 
 def welcome(client,message):
-   message.reply_text(text="Hey dude")
+   message.reply_text(text="Bot is started")
 
 Bot.run()
 
